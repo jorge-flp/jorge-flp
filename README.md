@@ -6,6 +6,7 @@
 <img src="https://github.com/user-attachments/assets/f3ce0c28-f58f-46d8-8da5-3bb5f1d7364c" width="50">
 <img src="https://github.com/user-attachments/assets/c4ddb305-80a2-4244-8ceb-cd873ee82580" width="50">
 <img src="https://github.com/user-attachments/assets/97fa965f-de22-4aaa-9671-7573e220e1a9" width="50">
+<img src"![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)" width="50">
 
 ![snake](https://github.com/user-attachments/assets/e398c26e-fe26-404b-99f8-149bc0aef343)
 
