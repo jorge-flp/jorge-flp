@@ -1,6 +1,7 @@
 ## Seja bem-vindo ao meu github!!
 
 <img src="https://github.com/user-attachments/assets/0b441567-f288-4368-b343-8f2fe9f348fe" width="50">
+<img src="<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />" width="50">
 <img src="https://github.com/user-attachments/assets/203851d5-68c8-4996-a209-e039fe506b33" width="50">
 <img src="https://github.com/user-attachments/assets/78c0759a-3567-4423-87ff-792f81d1f4b5" width="50">
 <img src="https://github.com/user-attachments/assets/f3ce0c28-f58f-46d8-8da5-3bb5f1d7364c" width="50">
@@ -9,3 +10,6 @@
 
 
 ![snake](https://github.com/user-attachments/assets/e398c26e-fe26-404b-99f8-149bc0aef343)
+
+            
+          
