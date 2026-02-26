@@ -1,5 +1,9 @@
 ## Seja bem-vindo ao meu github!!
 
+### Prazer, me chamo Jorge! 👨‍💻
+
+Transformando ideias em linhas de código back-end. Meu stack principal envolve Java e PHP, mas transito com facilidade pelo ecossistema React e Node.js. Este perfil é o reflexo da minha evolução constante com ferramentas como Maven, AWS e diferentes tecnologias de banco de dados
+
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="35" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="35" />
@@ -13,8 +17,6 @@
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" height="35" />
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=jorge-flp&show_icons=true&theme=cobalt" alt="GitHub Stats" />
-![Stats](https://github-readme-stats.vercel.app/api?username=jorge-flp&show_icons=true&theme=cobalt)
 
 ![snake](https://github.com/user-attachments/assets/e398c26e-fe26-404b-99f8-149bc0aef343)
 
