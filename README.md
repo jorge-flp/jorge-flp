@@ -1,13 +1,20 @@
 ## Seja bem-vindo ao meu github!!
 
-<img src="https://github.com/user-attachments/assets/0b441567-f288-4368-b343-8f2fe9f348fe" width="50">
-<img src="https://github.com/user-attachments/assets/203851d5-68c8-4996-a209-e039fe506b33" width="50">
-<img src="https://github.com/user-attachments/assets/78c0759a-3567-4423-87ff-792f81d1f4b5" width="50">
-<img src="https://github.com/user-attachments/assets/f3ce0c28-f58f-46d8-8da5-3bb5f1d7364c" width="50">
-<img src="https://github.com/user-attachments/assets/c4ddb305-80a2-4244-8ceb-cd873ee82580" width="50">
-<img src="https://github.com/user-attachments/assets/97fa965f-de22-4aaa-9671-7573e220e1a9" width="50">
-<img src"![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)" width="50">
-<img src="https://github.com/user-attachments/assets/f3ce0c28-f58f-46d8-8da5-3bb5f1d7364c" width="40"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="35" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/MySQL-00000f?style=for-the-badge&logo=mysql&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="35" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" height="35" />
+</p>
+
+<img src="https://github-readme-stats.vercel.app/api?username=jorge-flp&show_icons=true&theme=cobalt" alt="GitHub Stats" />
+![Stats](https://github-readme-stats.vercel.app/api?username=jorge-flp&show_icons=true&theme=cobalt)
 
 ![snake](https://github.com/user-attachments/assets/e398c26e-fe26-404b-99f8-149bc0aef343)
 
