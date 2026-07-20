@@ -17,8 +17,6 @@ Transformando ideias em linhas de código back-end. Meu stack principal envolve 
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" height="35" />
 </p>
 
-![Status de Sequência](https://github-readme-streak-stats.herokuapp.com/?user=jorge-flp&theme=radial)
-
 
 ![snake](https://github.com/user-attachments/assets/e398c26e-fe26-404b-99f8-149bc0aef343)
 
