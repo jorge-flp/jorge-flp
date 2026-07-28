@@ -2,7 +2,7 @@
 
 ### Prazer, me chamo Jorge! 👨‍💻
 
-Transformando ideias em linhas de código back-end. Meu stack principal envolve Java e PHP, mas transito com facilidade pelo ecossistema React e Node.js. Este perfil é o reflexo da minha evolução constante com ferramentas como Maven, AWS e diferentes tecnologias sobre banco de dados.
+Transformando ideias em linhas de código em projetos. Meu stack principal envolve Java e PHP, mas transito com facilidade pelo ecossistema React e Node.js. Este perfil é o reflexo da minha evolução constante com ferramentas como Maven, AWS e diferentes tecnologias sobre banco de dados.
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="35" />
